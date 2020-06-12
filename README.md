@@ -1,2 +1,2 @@
 # Homework-Create-a-Python-and-Docker-project-with-PyCharm
-![Proof of i worked on my computer](Capture2.PNG)
+![the project running in Pycharm](https://user-images.githubusercontent.com/66033141/84459790-47bcfa00-ac36-11ea-814b-c51013904f44.PNG)
